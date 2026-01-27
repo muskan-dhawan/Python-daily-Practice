@@ -105,4 +105,68 @@ Error Handling with try / except
 👉 Focus of Day 04:
 Building real-world mini projects, understanding program flow, file-based data storage, and modular coding using functions 🚀
 
+### Day 05 – Object-Oriented Programming (OOP) in Python
+
+Introduction to OOP
+
+Class as a blueprint
+
+Object creation
+
+Constructors (__init__)
+
+No-argument constructor
+
+Parameterized constructor
+
+Multiple parameters in constructor
+
+Instance Variables & Object Attributes
+
+Class Variables (shared data)
+
+Access via object and class name
+
+Updating class attributes
+
+Normal Methods
+
+Defining and calling instance methods
+
+Static Method (concept)
+
+Real-life Class Examples
+
+Student, Car, Company, College
+
+Counting Objects using Class Attribute
+
+Mutable vs Immutable Behavior in OOP Context
+
+Four Pillars of OOP
+
+Encapsulation
+
+Abstraction
+
+Inheritance
+
+Polymorphism
+
+Encapsulation
+
+Private variables (__variable)
+
+Getter and Setter methods
+
+Bank & Account Examples
+
+Hidden balance
+
+Deposit & Withdraw logic
+
+Secure data access using methods
+
+👉 Focus of Day 05:
+Understanding core OOP concepts, class design, data hiding, and implementing real-world logic using encapsulation 🧠🚀
 
