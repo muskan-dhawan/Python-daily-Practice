@@ -14,4 +14,18 @@ This repository documents my daily Python learning journey as part of full-stack
 - Lists, Tuples, Sets
 - Logical Programs
 
-More days will be added consistently.
+### Day 02 – Python Core Concepts
+
+Dictionary & Dictionary Methods
+
+Menu-Driven Programs using Dictionary
+
+String Manipulation & String Methods
+
+String Logical Programs (reverse, palindrome, duplicates)
+
+File Handling (read, write, append)
+
+Exception Handling (try, except, finally)
+
+ 
