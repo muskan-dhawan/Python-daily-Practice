@@ -63,4 +63,46 @@ Problem-Solving Approaches
 Brute force logic
 
 Pair sum / target sum problems
- 
+
+### Day 04 – Python Mini Projects & File-Based Applications
+
+Menu-Driven Program Design
+
+Function-Based Program Structure
+
+Global Variables & global Keyword
+
+File Handling for Data Persistence
+
+Load data from file
+
+Save updated data to file
+
+ATM Simulator Project
+
+Balance check
+
+Deposit & withdrawal logic
+
+PIN verification & change
+
+Data storage using files
+
+Quiz Application Project
+
+Questions & answers using lists
+
+Score calculation
+
+High-score tracking using files
+
+Conditional logic for score comparison
+
+Program Flow Control using main()
+
+Error Handling with try / except
+
+👉 Focus of Day 04:
+Building real-world mini projects, understanding program flow, file-based data storage, and modular coding using functions 🚀
+
+
