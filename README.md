@@ -174,12 +174,16 @@ Understanding core OOP concepts, class design, data hiding, and implementing rea
 
 This notebook covers basic Object-Oriented Programming (OOP) concepts in Python, including:
 
-Classes and Objects
-
 Inheritance
 
-Constructor (__init__)
+Multiple Inheritance
 
-Method Overriding
+super(),
 
-Encapsulation
+public private protected
+
+Diamond problem
+
+Polymorphism
+
+Reference
