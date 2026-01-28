@@ -170,3 +170,16 @@ Secure data access using methods
 👉 Focus of Day 05:
 Understanding core OOP concepts, class design, data hiding, and implementing real-world logic using encapsulation 🧠🚀
 
+### Day 6 – Python Practice
+
+This notebook covers basic Object-Oriented Programming (OOP) concepts in Python, including:
+
+Classes and Objects
+
+Inheritance
+
+Constructor (__init__)
+
+Method Overriding
+
+Encapsulation
