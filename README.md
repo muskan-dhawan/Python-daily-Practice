@@ -208,6 +208,7 @@ Interface → only rules, no logic
 Composition (HAS-A)
 One class uses the object of another class.
 Preferred when inheritance is not needed.
+
 🛠 Mini Projects (OOPS – Python)
 📚 1. Library Management System
 
