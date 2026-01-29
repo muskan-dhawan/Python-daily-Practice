@@ -187,3 +187,96 @@ Diamond problem
 Polymorphism
 
 Reference
+### Day 7 – OOPS Concepts (Brief)
+
+Abstraction
+Shows what to do and hides how to do.
+Used to reduce complexity in large programs.
+
+Abstract Class
+Contains both implemented and non-implemented methods.
+Child class completes the abstract methods.
+
+Interface
+Pure rule class with only method declarations.
+All methods must be implemented by the child class.
+
+Abstract Class vs Interface
+Abstract class → partial implementation
+Interface → only rules, no logic
+
+Composition (HAS-A)
+One class uses the object of another class.
+Preferred when inheritance is not needed.
+🛠 Mini Projects (OOPS – Python)
+📚 1. Library Management System
+
+Demonstrates Abstraction, Inheritance, Polymorphism, Encapsulation
+
+LibraryItem → Parent class
+
+Book, Magazine → Child classes (IS-A)
+
+LibraryApp → Controller (HAS-A)
+
+Different items calculate borrowing charges differently
+
+Sample Output:
+
+Item Type: Book → Borrow Days: 5 → Charge: 50
+
+Item Type: Magazine → Borrow Days: 3 → Charge: 30
+
+👨‍💼 2. Employee Payroll System
+
+Demonstrates all 4 pillars of OOPS
+
+Employee → Abstract class
+
+FullTimeEmployee, PartTimeEmployee → Child classes
+
+Salary → Encapsulated data
+
+PayrollSystem → Controller (HAS-A)
+
+Salary calculation differs based on employee type
+
+Sample Output:
+
+Employee Created → Salary: 500000
+
+Employee Created → Salary: 40000
+
+🏦 3. Bank Account Management System
+
+Demonstrates Abstraction, Encapsulation, Inheritance, Polymorphism
+
+BankAccount → Parent / abstract behavior
+
+SavingAccount, CurrentAccount → Child classes
+
+BankApp → Controller (HAS-A)
+
+Interest calculation varies by account type
+
+Key Features:
+
+Deposit
+
+Withdraw
+
+Balance check
+
+Interest calculation
+
+✅ Summary
+
+These mini projects helped in understanding:
+
+Real-world use of OOPS concepts
+
+IS-A and HAS-A relationships
+
+Controller-based application design
+
+Clean and reusable code structure
