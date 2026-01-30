@@ -281,3 +281,16 @@ IS-A and HAS-A relationships
 Controller-based application design
 
 Clean and reusable code structure
+### Day 8 Python Practice 
+Day 9 Practice:
+
+Import Libraries
+
+Random Module
+
+DateTime Module
+
+Collections Module
+
+Regular Expressions (Regex)
+
