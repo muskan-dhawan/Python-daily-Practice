@@ -282,7 +282,7 @@ Controller-based application design
 
 Clean and reusable code structure
 ### Day 8 Python Practice 
-Day 9 Practice:
+Day 8 Practice:
 
 Import Libraries
 
