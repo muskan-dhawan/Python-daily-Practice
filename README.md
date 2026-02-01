@@ -293,4 +293,41 @@ DateTime Module
 Collections Module
 
 Regular Expressions (Regex)
+### Day 9 Python Practice
+Regex to validate 10-digit mobile number
 
+Extract email IDs from a string
+
+Extract numbers from alphanumeric text
+
+Strong password validation using regex
+
+PAN number validation
+
+IPv4 address validation
+
+IPv6 address validation
+
+Hexadecimal value validation
+
+Sys module usage
+
+Random number generation
+
+Even and odd number checking
+
+Mathematical operations and rounding
+
+Frequency counting using collections
+
+File handling concepts
+
+OS module for directory and file handling
+
+Random password generation
+
+Password strength checking
+
+Character count in password
+
+Strength score calculation
