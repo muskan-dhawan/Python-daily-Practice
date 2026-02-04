@@ -374,7 +374,7 @@ Unique
 Syntax for foreign jey - student_id REFERENCES
                            student(student_id)
 INNER JOIN → A ∩ B | LEFT JOIN → A ∪ (A ∩ B) → A + A^B | RIGHT JOIN → B ∪ (A ∩ B) → B + A^B | FULL JOIN → A ∪ B
-### Day 12 Python PractSubquery
+### Day 12 Python Practice
 A subquery is a query inside another query, used when one question depends on the result of another.
 
 Transaction (All or Nothing)
