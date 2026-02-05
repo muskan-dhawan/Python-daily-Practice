@@ -409,5 +409,27 @@ Normalization is the process of converting a messy and unorganized table into cl
 Why Normalization?
 Reduces data duplication
 Avoids insert anomaly
+### Day 13 Python Practice
+TYPES OF NORMALIZATION:
+1. 1NF-> ONE CELL SHOULD NOT HAVE MORE THAN ONE VALUE
+      -> ATOMIC VALUES
+      -> DEFINITION --> EACH COLUMN SHOULD CONTAIN ATOMIC (SINGLE) VALUE
+
+2. 2NF-> TABLE MUST BE 1NF
+      -> NO PARTIAL DEPENDENCY
+
+3. 3NF-> TABLE MUST BE 2NF
+      -> NOT DEPENDENT ON ANOTHER ROW WHICH IS ALREADY DEPENDENT ON ANY OTHER ROW
+      -> NO TRANSITIVE DEPENDENCY
+SQLite: IT IS A LIGHTWEIGHT DATABASE THAT STORES DATA IN A SINGLE FILE AND IS INBUILT IN PYTHON
+
+
+COMMANDS IN SQLite:
+
+connect()--> OPENS DATABASE
+cursor()--> RUNS SQL
+execute()--> EXECUTES SQL
+commit()--> SAVE CHANGES
+close()--> CLOSES CONNECTION
 Avoids update anomaly
 Avoids delete anomaly
