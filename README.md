@@ -433,3 +433,6 @@ commit()--> SAVE CHANGES
 close()--> CLOSES CONNECTION
 Avoids update anomaly
 Avoids delete anomaly
+### Day 14 Python Practice
+A simple Python script demonstrating PostgreSQL connectivity using psycopg2.
+It creates an employees table, inserts sample data, and fetches records from the database.
