@@ -436,3 +436,21 @@ Avoids delete anomaly
 ### Day 14 Python Practice
 A simple Python script demonstrating PostgreSQL connectivity using psycopg2.
 It creates an employees table, inserts sample data, and fetches records from the database.
+### Day 15 Python Practice
+This file contains PostgreSQL and SQL practice focusing on database creation, table design, constraints, joins, transactions, and indexing.
+
+Key Topics:
+
+Tables & constraints (PK, FK, UNIQUE, CHECK)
+
+INSERT & SELECT queries
+
+INNER & LEFT JOIN
+
+GROUP BY
+
+Transactions (BEGIN / ROLLBACK)
+
+Index creation
+
+Tools: PostgreSQL, SQL, Python (practice context)
