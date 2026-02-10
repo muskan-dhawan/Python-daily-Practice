@@ -472,3 +472,17 @@ Create an Employee model/class
 Map class attributes to table columns
 
 The file is basically a practice/example of converting Python classes into SQL tables
+### Day 17 Python Practice
+This file (Day 17 Python Practice.ipynb) mainly contains SQLAlchemy ORM practice, focused on understanding how Python code maps to database tables.
+
+Introduction to ORM (Object Relational Mapping) and its purpose (Python ↔ SQL)
+
+Basic SQLAlchemy imports like declarative_base, sessionmaker, and relationship
+
+Small notes/practice cells explaining concepts (for example: operators like ==)
+
+Steps to connect an engine to a database
+
+Practice code related to table creation using ORM
+
+A mini project section where ORM models and project-style code are written
