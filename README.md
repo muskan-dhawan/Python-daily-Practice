@@ -542,4 +542,4 @@ This project demonstrates: ORM-based database interaction SQL JOINs and aggregat
 
 Future Enhancements: Export reports to CSV Flask Web Interface User Authentication Charts and visual analytics
 
-Author: Namith
+Author: Muskan
