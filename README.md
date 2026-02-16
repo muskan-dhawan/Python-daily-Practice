@@ -583,3 +583,32 @@ After creating the hello view, the server worked.
 / shows 404 because I didn’t define a root URL.
 
 I still need to run python manage.py migrate to create the default database tables.
+### Day 20 Python Practice
+#Django project
+1. create virtual environment
+
+2. django-admin startproject store_project
+
+3.cd store project
+
+4.python manage.py startapp core
+
+5. pip install djangorestframework
+
+6.pip install psycopg2-binary
+
+7. add core and rest_framework in installed apps(settings.py)
+
+8. add database in settings.py like host, name, passwpord
+
+9. now code in models.ov
+
+10. then migrate 2 commands
+
+11.seralizer
+
+12.views.py
+
+13.urls.py
+
+14. runserver
